@@ -27,6 +27,9 @@ img{
   border-color: green;
   border-style: double;
 }
+#centering-for-travis{
+  text-align: center;
+}
 #divp1{
   background-color: rgb(210, 250, 210);
   border-radius: 9px;
